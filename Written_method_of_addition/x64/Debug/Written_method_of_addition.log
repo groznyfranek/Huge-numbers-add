@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Uzytkownik\Desktop\programowanie\Written_method_of_addition\Written_method_of_addition\main.cpp(24,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Uzytkownik\Desktop\programowanie\Written_method_of_addition\Written_method_of_addition\main.cpp(25,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Uzytkownik\Desktop\programowanie\Written_method_of_addition\Written_method_of_addition\main.cpp(41,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Written_method_of_addition.vcxproj -> C:\Users\Uzytkownik\Desktop\programowanie\Written_method_of_addition\Written_method_of_addition\x64\Debug\Written_method_of_addition.exe
