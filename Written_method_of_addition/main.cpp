@@ -24,11 +24,13 @@ std::string add(const std::string& a, const std::string& b)
 	int size1 = a_dig.size();
 	int size2 = b_dig.size();
 
-	if (size1 < size2) {
+	if (size1 < size2)
+	{
 		int diff = size2 - size1;
 		a_dig.insert(a_dig.begin(), diff, 0);
 	}
-	else if (size2 < size1) {
+	else if (size2 < size1) 
+	{
 		int diff = size1 - size2;
 		b_dig.insert(b_dig.begin(), diff, 0);
 	}
